@@ -1,0 +1,18 @@
+.banner {
+    background-image: url('../img/carousel-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 690px;
+}
+
+.main1 {
+    text-align: right;
+}
+
+.main2 {
+    background-color: rgb(223, 223, 223);
+}
+
+.main3 {
+    text-align: left;
+}
